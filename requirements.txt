@@ -3,3 +3,4 @@ scikit-learn #instead of sklearn
 pandas
 numpy
 matplotlib
+gunicorn
